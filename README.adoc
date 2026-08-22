@@ -47,7 +47,7 @@ I use an LLM to enhance my abilities. The writing thus not only is
 bloated with deadwood, but also has a tendency for socially sanctioned
 nonsense to creep in.
 
-My own writing is more concise and precise.
+My own technical writing is more concise and precise.
 
 If you see stuff about “concepts,” that is probably the LLM. If you
 see stuff talking about “objective physical reality,” that is the LLM.
