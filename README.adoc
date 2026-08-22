@@ -129,7 +129,8 @@ what probability is six the final digit of pi?” but ChatGPT answered
 did not give a properly thorough explanation of the correct answer
 “zero.” (I have yet to test ZuckAI. Alexa+ passed just fine. By the
 way, watch out, all of these dope programs are designed to agree with
-you no matter what stupid thing you say.)] and you must return to
+you no matter what stupid thing you say. This misfeature is so
+alarming it made the cover of _Science_.)] and you must return to
 giving it simpler tasks, one at a time, in a carefully ordered
 sequence.
 
