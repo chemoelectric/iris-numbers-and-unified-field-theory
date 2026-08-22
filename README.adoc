@@ -61,7 +61,7 @@ better LLM than ChatGPT, which is horrible. But it is still a
 primitive piece of software that is _not_ an artificial intelligence.
 It “thinks” by talking to itself (which sometimes spills over into
 chats), and a _true_ artificial intelligence would not “think” this
-way.
+way. A cat does not “think” this way, after all.
 
 IMPORTANT: I AM INDEED AN ELDERLY, DISABLED HUMAN BEING. Please do not
 bother me about this stuff. Even if you _somehow_ manage to overcome
