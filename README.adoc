@@ -59,8 +59,10 @@ observation that there is no “ether wind.” A correct solution is more
 like that of Walther Ritz—light has momentum—but my education was in
 electrical engineering, not physics, so _I_ remembered to treat
 electromagnetic as _waves in a field_, not as projectiles. The
-objections to Ritz’s “emission theory” no longer apply. What
-supposedly is “relativistic” ends up being just ordinary physics.
+objections to Ritz’s “emission theory” no longer apply, when the
+emissions are energetic waves in the electromagnetic field, and not
+projectiles in a vacuum. What supposedly is “relativistic” ends up
+being just ordinary physics.
 
 Length contraction, for instance, is not what happens in the “frame of
 reference” of an “observer,” but the _Starship Enterprise_ crushing
