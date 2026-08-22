@@ -10,9 +10,14 @@ part of its structure a unified field theory for physics.
 Included also is an ACL2 “book.” This is a library for the ACL2 proof
 assistant that is written in Common Lisp, and which is much friendlier
 than most proof assistants are. And there is a directory of small
-programs related to what appears in the volumes.
+programs related to what appears in the volumes. Both the ACL2 book
+and the programs are licensed differently from the textbooks. They are
+licensed under an
+link:https://spdx.org/licenses/MIT.html[expat/MIT-style license].
 
-Titles:
+***
+
+Titles of the textbooks:
 
 * _The Iris Number System, Volume I: Fundamentals_
 * _The Iris Number System, Volume II: Applications to Number Theory, Analysis, Probability Theory, Statistics_
