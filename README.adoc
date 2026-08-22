@@ -77,7 +77,8 @@ gravitational constant, etc., are derived from first principles. Thus
 the unified field theory is almost certainly correct.
 
 Forthcoming volumes include Volume VI on applications to fractals and
-Volume VII on applications to digital typeface design.
+Volume VII on applications to digital typeface design.footnote:[The
+author is one of the earliest contributors to Google Fonts.]
 
 == About the textbooks
 
