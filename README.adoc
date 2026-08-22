@@ -11,6 +11,14 @@ Included also is an ACL2 “book.” This is a library for the ACL2 proof
 assistant that is written in Common Lisp, and which is much friendlier
 than most proof assistants are.
 
+Titles:
+
+. _The Iris Number System, Volume I: Fundamentals_
+. _The Iris Number System, Volume II: Applications to Number Theory, Analysis, Probability Theory, Statistics_
+. _The Iris Number System, Volume III: Applications to Geometry, Algebra, Representations, Topology, Lattices, Categories, Combinatorics_
+. _The Iris Number System, Volume IV: Applications to Physics, Chemistry, Astronomy, Engineering, Communications, Time-Binding_
+. _The Iris Number System, Volume V: Applications to Spectral Theory, Circuit Theory, Transmission Theory, Electronics, Computing_
+
 The Iris number system replaces continuous real numbers with
 indefinitely finely divided discrete ones, corresponding to interval
 numbers in computing. Differential calculus is done in the manner of
