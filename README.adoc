@@ -78,10 +78,10 @@ elderly, disabled human being, I cannot write so much stuff.
 
 Sometimes the LLM writes a “proof” that seems to me really out there
 with the social science assumptions. Perhaps it is applying the same
-loose rules logic that plagues the social sciences currently. On the
-otheer hand it is in these cases writing somewhat in the manner of
-Newton’s _Opticks_. I let the LLM proceed simply because it would be
-too much effort to refine the presentation.
+loose logic that plagues the social sciences currently. On the otheer
+hand it is in these cases writing somewhat in the manner of Newton’s
+_Opticks_. I let the LLM proceed simply because it would be too much
+effort to refine the presentation.
 
 I supply postulates, set constraints, require the LLM to call me
 “Sir,” and so on. Then let the LLM do things. It is Gemini, which is a
