@@ -34,8 +34,8 @@ The unified field theory replaces all current theories, including the
 gravitational, strong, and weak forces, with just Maxwell’s equations
 and the force of electromagnetism. Mass is shown to be a self-induced
 electromagnetic effect, with inertial and gravitational mass being the
-same thing. Gravitation is a secondary coupling effect between
-overlapping portions of the electromagnetic field.
+same thing. Gravitation is a coupling effect between overlapping
+portions of the electromagnetic field.
 
 All of the universe is filled with an electromagnetic field. There is
 no vacuum. There is no “curvature,” either. Space and time are as one
