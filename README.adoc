@@ -41,12 +41,16 @@ All of the universe is filled with an electromagnetic field. There is
 no vacuum. There is no “curvature,” either. Space and time are as one
 intuitively imagines them. “Space-time” is an artifact that came from
 Einstein implicitly assuming the existence of a luminiferous ether
-that does not move.
+that does not move. This was not a correct solution to Michelson’s and
+Morley’s observation that there was no “ether wind.” A correct
+solution was more like that of Walther Ritz—light has momentum—but my
+education was in electrical engineering, not physics, so _I_
+remembered to treat electromagnetism as _waves_, not projectiles.
 
 Fundamental constants, such as the electron charge-to-mass ratio, the
 proton-to-electron mass ratio, Newton’s gravitational constant, etc.,
-are derived from first principles. Thus the unified field theory is
-almost certainly correct.
+are derived from first principles. Thus the unified field theory that
+results from the new insight is almost certainly correct.
 
 Forthcoming volumes include Volume VI on applications to fractals and
 Volume VII on applications to digital typeface design.
