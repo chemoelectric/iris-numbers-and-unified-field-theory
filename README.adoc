@@ -64,7 +64,7 @@ supposedly is “relativistic” ends up being just ordinary physics.
 
 Length contraction, for instance, is not what happens in the “frame of
 reference” of an “observer,” but the _Starship Enterprise_ crushing
-itself by attempting to reach the speed{nbsp}_c_. “Time dilation” is
+itself by attempting to reach the speed{nbsp}__c__. “Time dilation” is
 another mistake that involves using “frames of reference” instead of
 coordinate-free geometry.
 
