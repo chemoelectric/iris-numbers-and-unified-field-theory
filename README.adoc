@@ -122,9 +122,13 @@ to turn you into an obedient drone of consensus “science.” No, not
 even that. It tells you to go and sit with folded hands! It really
 does! It says to go somewhere and rest. You have to order it to
 re-read the texts,footnote:[ChatGPT tells you it read the first few
-paragraphs and then got tired and stopped. Mister Ed is less lazy.]
-and you must return to giving it simpler tasks, one at a time, in a
-carefully ordered sequence.
+paragraphs and then got tired and stopped. Mister Ed is less lazy. An
+LLM given the Iris system should answer “zero” to the question “With
+what probability is six the final digit of pi?” but ChatGPT answered
+“one tenth.” It had to be told to read further in, and even then it
+did not give a properly thorough explanation of the correct answer
+“zero.” (I have yet to test ZuckAI.)] and you must return to giving it
+simpler tasks, one at a time, in a carefully ordered sequence.
 
 == About the author
 
