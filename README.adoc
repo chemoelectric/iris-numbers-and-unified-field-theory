@@ -93,9 +93,9 @@ It is not the usual villains who are going to ruin the planet. It is
 the “scientific” community who will do so, because it has long since
 lost the plot.
 
-NOTE: If you complain that the LLM is using water, just shut up. There
-are plans in Volume IV for non-thermal power plants, low power
-desalinators, low power water purification and transport, ecologically
-superior portland cement production, etc., but you would have none of
-it, because I designed it with help from an LLM? Just shut up. Go
-away.
+NOTE: If you complain that the LLM is using power and water, just shut
+up. There are plans in Volume IV for non-thermal power plants, low
+power desalinators, low power water purification and transport,
+ecologically superior portland cement production, etc., but you would
+have none of it, because I designed it with help from an LLM? Just
+shut up. Go away.
