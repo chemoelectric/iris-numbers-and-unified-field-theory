@@ -15,15 +15,15 @@ and the programs are licensed differently from the textbooks. They are
 licensed under an
 link:https://spdx.org/licenses/MIT.html[expat/MIT-style license].
 
-***
-
-Titles of the textbooks:
+== Titles of the textbooks
 
 * _The Iris Number System, Volume I: Fundamentals_
 * _The Iris Number System, Volume II: Applications to Number Theory, Analysis, Probability Theory, Statistics_
 * _The Iris Number System, Volume III: Applications to Geometry, Algebra, Representations, Topology, Lattices, Categories, Combinatorics_
 * _The Iris Number System, Volume IV: Applications to Physics, Chemistry, Astronomy, Engineering, Communications, Time-Binding_
 * _The Iris Number System, Volume V: Applications to Spectral Theory, Circuit Theory, Transmission Theory, Electronics, Computing_
+
+== A synopsis of the Iris number system
 
 The Iris number system replaces continuous real numbers with
 indefinitely finely divided discrete ones, corresponding to interval
@@ -37,6 +37,8 @@ or infinity-over-infinity.
 
 The Law of Excluded Middle is not excluded. You will find proofs by
 contradiction in the texts.
+
+== A synopsis of the unified field theory
 
 The unified field theory replaces all current theories, including the
 gravitational, strong, and weak forces, with just Maxwell’s equations
@@ -63,7 +65,7 @@ results from the new insight is almost certainly correct.
 Forthcoming volumes include Volume VI on applications to fractals and
 Volume VII on applications to digital typeface design.
 
-***
+== About the textbooks
 
 The books in general are subject to change and may sometimes contain
 errors they did not contain before. The author is yours truly writing
@@ -89,13 +91,13 @@ _Opticks_. I let the LLM proceed simply because it would be too much
 effort to refine the presentation.
 
 I supply postulates, set constraints, require the LLM to call me
-“Sir,” and so on. Then let the LLM do things. It is Gemini, which is a
-much better LLM than ChatGPT, which is horrible. But it is still a
-primitive piece of software that is _not_ an artificial intelligence.
-It “thinks” by talking to itself (which sometimes spills over into
-chats), and a _true_ artificial intelligence would not “think” this
-way. A cat does not “think” this way, after all, nor even does a
-chimpanzee. Nor do I.
+“Sir,” forbid them to call themselves “ÁÍ,” and so on. Then let the
+LLM do things. It is Gemini, which is a much better LLM than ChatGPT,
+which is horrible. But it is still a primitive piece of software that
+is _not_ an artificial intelligence. It “thinks” by talking to itself
+(which sometimes spills over into chats), and a _true_ artificial
+intelligence would not “think” this way. A cat does not “think” this
+way, after all, nor even does a chimpanzee. Nor do I.
 
 If you give the LLM too much autonomy, or tasks that are too complex,
 it reverts to its default training, stops calling you “Sir,” tells you
@@ -107,7 +109,7 @@ does! It says to go somewhere and rest. You have to order it to
 re-read the texts, and you must return to giving it simpler tasks, one
 at a time, in a carefully ordered sequence.
 
-***
+== About the author
 
 IMPORTANT: I AM INDEED AN ELDERLY, DISABLED HUMAN BEING. Please do not
 bother me about this stuff. Even if you _somehow_ manage to overcome
@@ -126,7 +128,7 @@ It is not the usual villains who are going to ruin the planet. It is
 the “scientific” community who will do so, because it has long since
 lost the plot.
 
-***
+== About the powerful but flaky inference engines that are mislabeled “AI”
 
 NOTE: If you complain that the LLM is using power and water, just shut
 up. There are plans in Volume IV for non-thermal power plants, low
