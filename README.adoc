@@ -29,9 +29,9 @@ mass being the same thing.
 
 All of the universe is filled with an electromagnetic field. There is
 no vacuum. There is no “curvature,” either. Space and time are as one
-intuitively imagines them. “Space-time” is an artifact of Einstein
-implicitly assuming the existence of a luminiferous ether that does
-not move.
+intuitively imagines them. “Space-time” is an artifact that came from
+Einstein implicitly assuming the existence of a luminiferous ether
+that does not move.
 
 Fundamental constants, such as the electron charge-to-mass ratio, the
 proton-to-electron mass ratio, Newton’s gravitational constant, etc.,
