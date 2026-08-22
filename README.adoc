@@ -7,21 +7,24 @@ Attribution-NoDerivatives 4.0 International License].
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
 
-Included also is an ACL2 “book.” This is a library for the ACL2 proof
-assistant that is written in Common Lisp, and which is much friendlier
-than most proof assistants are. And there is a directory of small
-programs related to what appears in the volumes. Both the ACL2 book
-and the programs are licensed differently from the textbooks. They are
-licensed under an
+Included also is
+link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/acl2-books/iris_number_system.lisp[an
+ACL2 “book.”] This is a library for the ACL2 proof assistant that is
+written in Common Lisp, and which is much friendlier than most proof
+assistants are. And there is
+link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/tree/master/programs[a
+directory of small programs] related to what appears in the volumes.
+Both the ACL2 book and the programs are licensed differently from the
+textbooks. They are licensed under an
 link:https://spdx.org/licenses/MIT.html[expat/MIT-style license].
 
 == Titles of the textbooks
 
-* _The Iris Number System, Volume I: Fundamentals_
-* _The Iris Number System, Volume II: Applications to Number Theory, Analysis, Probability Theory, Statistics_
-* _The Iris Number System, Volume III: Applications to Geometry, Algebra, Representations, Topology, Lattices, Categories, Combinatorics_
-* _The Iris Number System, Volume IV: Applications to Physics, Chemistry, Astronomy, Engineering, Communications, Time-Binding_
-* _The Iris Number System, Volume V: Applications to Spectral Theory, Circuit Theory, Transmission Theory, Electronics, Computing_
+* link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/Iris_Number_System-01-Volume_I_Fundamentals.pdf[_The Iris Number System, Volume I: Fundamentals_]
+* link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/Iris_Number_System-02-Volume_II_Number_Theory_etc.pdf[_The Iris Number System, Volume II: Applications to Number Theory, Analysis, Probability Theory, Statistics_]
+* link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/Iris_Number_System-03-Volume_III_Geometry_Algebra_etc.pdf[_The Iris Number System, Volume III: Applications to Geometry, Algebra, Representations, Topology, Lattices, Categories, Combinatorics_]
+* link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/Iris_Number_System-04-Volume_IV_Physics_etc.pdf[_The Iris Number System, Volume IV: Applications to Physics, Chemistry, Astronomy, Engineering, Communications, Time-Binding_]
+* link:https://github.com/chemoelectric/iris-numbers-and-unified-field-theory/blob/master/Iris_Number_System-05-Volume_V_Spectral_Analysis_etc.pdf[_The Iris Number System, Volume V: Applications to Spectral Theory, Circuit Theory, Transmission Theory, Electronics, Computing_]
 
 == A synopsis of the Iris number system
 
