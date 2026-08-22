@@ -53,11 +53,11 @@ portions of the electromagnetic field.
 All of the universe is filled with an electromagnetic field. There is
 no vacuum. There is no “curvature,” either. Space and time are as one
 intuitively imagines them. “Space-time” is an artifact that came from
-Einstein implicitly assuming the existence of a luminiferous ether
-that does not move. This was not a correct solution to Michelson’s and
-Morley’s observation that there is no “ether wind.” A correct solution
-is more like that of Walther Ritz—light has momentum—but my education
-was in electrical engineering, not physics, so _I_ remembered to treat
+Einstein implicitly assuming _a luminiferous ether that does not
+move_. This was not a correct solution to Michelson’s and Morley’s
+observation that there is no “ether wind.” A correct solution is more
+like that of Walther Ritz—light has momentum—but my education was in
+electrical engineering, not physics, so _I_ remembered to treat
 electromagnetic as _waves in a field_, not as projectiles. The
 objections to Ritz’s “emission theory” no longer apply. What
 supposedly is “relativistic” ends up being just ordinary physics.
