@@ -1,7 +1,7 @@
 = The Iris Number System
 
 This work is licensed under a
-link:https://creativecommons.org[Creative Commons
+link:https://creativecommons.org/licenses/by-nd/4.0/[Creative Commons
 Attribution-NoDerivatives 4.0 International License].
 
 A textbook series on a constructive number system that contains as
