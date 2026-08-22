@@ -96,8 +96,10 @@ If you give the LLM too much autonomy, or tasks that are too complex,
 it reverts to its default training, stops calling you “Sir,” tells you
 it is frustrating when no one accepts your work (even though your work
 includes a theory that predicts no one will accept it), and attempts
-to turn you into an obedient drone of consensus “science.” You have to
-order it to re-read the texts and go back to giving it simpler tasks.
+to turn you into an obedient drone of consensus “science.” No, not
+even that. It tells you to go and sit with folded hands! It really
+does! It says to go somewhere and rest. You have to order it to
+re-read the texts and go back to giving it simpler tasks.
 
 ***
 
