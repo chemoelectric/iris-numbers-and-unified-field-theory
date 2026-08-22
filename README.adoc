@@ -58,12 +58,21 @@ that does not move. This was not a correct solution to Michelson’s and
 Morley’s observation that there is no “ether wind.” A correct solution
 is more like that of Walther Ritz—light has momentum—but my education
 was in electrical engineering, not physics, so _I_ remembered to treat
-electromagnetic as _waves in a field_, not as projectiles.
+electromagnetic as _waves in a field_, not as projectiles. The
+objections to Ritz’s “emission theory” no longer apply. What
+supposedly is “relativistic” ends up being just ordinary physics.
 
-Fundamental constants, such as the electron charge-to-mass ratio, the
-proton-to-electron mass ratio, Newton’s gravitational constant, etc.,
-are derived from first principles. Thus the unified field theory that
-results from the new insight is almost certainly correct.
+Length contraction, for instance, is not what happens in the “frame of
+reference” of an “observer,” but the _Starship Enterprise_ crushing
+itself by attempting to reach the speed{nbsp}_c_. “Time dilation” is
+another mistake that involves using “frames of reference” instead of
+coordinate-free geometry.
+
+What conventional physics considers empirical knowledge becomes
+theoretical knowledge. Fundamental constants, such as the electron
+charge-to-mass ratio, the proton-to-electron mass ratio, Newton’s
+gravitational constant, etc., are derived from first principles. Thus
+the unified field theory is almost certainly correct.
 
 Forthcoming volumes include Volume VI on applications to fractals and
 Volume VII on applications to digital typeface design.
