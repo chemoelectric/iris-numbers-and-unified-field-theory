@@ -45,7 +45,7 @@ that does not move. This was not a correct solution to Michelson’s and
 Morley’s observation that there is no “ether wind.” A correct solution
 is more like that of Walther Ritz—light has momentum—but my education
 was in electrical engineering, not physics, so _I_ remembered to treat
-electromagnetism as _waves_, not projectiles.
+electromagnetic as _waves in a field_, not as projectiles.
 
 Fundamental constants, such as the electron charge-to-mass ratio, the
 proton-to-electron mass ratio, Newton’s gravitational constant, etc.,
