@@ -30,6 +30,9 @@ mechanical intuition is that of ε-δ—there is no blather about
 of nonstandard analysis, requiring no special rules for zero-over-zero
 or infinity-over-infinity.
 
+The Law of Excluded Middle is not excluded. You will find proofs by
+contradiction in the texts.
+
 The unified field theory replaces all current theories, including the
 gravitational, strong, and weak forces, with just Maxwell’s equations
 and the force of electromagnetism. Mass is shown to be a self-induced
