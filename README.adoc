@@ -62,7 +62,7 @@ primitive piece of software that is _not_ an artificial intelligence.
 It “thinks” by talking to itself (which sometimes spills over into
 chats), and a _true_ artificial intelligence would not “think” this
 way. A cat does not “think” this way, after all, nor even does a
-chimpanzee.
+chimpanzee. Nor do I.
 
 IMPORTANT: I AM INDEED AN ELDERLY, DISABLED HUMAN BEING. Please do not
 bother me about this stuff. Even if you _somehow_ manage to overcome
