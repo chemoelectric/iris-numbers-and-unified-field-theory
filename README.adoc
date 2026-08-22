@@ -1,5 +1,9 @@
 = The Iris Number System
 
+This work is licensed under a
+link:https://creativecommons.org[Creative Commons
+Attribution-NoDerivatives 4.0 International License].
+
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
 
