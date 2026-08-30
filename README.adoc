@@ -80,6 +80,27 @@ Forthcoming volumes include Volume VI on applications to fractals and
 Volume VII on applications to digital typeface design.footnote:[The
 author is one of the earliest contributors to Google Fonts.]
 
+== The structure of matter
+
+Subatomic particles are not “quantum” entities floating in a vacuum.
+They are extremely dynamic structures within the universal
+electromagnetic field. However, the following diagrams may give an
+impression of the general shapes of the structures. The inseparable
+toroidal regions of electromagnetic activity correspond to “quarks,”
+but unlike “quarks” are serious inferences about electromagnetism.
+
+The neutron core has a very highly compressed electron orbiting it
+extremely closely.footnote:[It always _had to be_ that a neutron was a
+suitably modified proton with a suitably modified electron orbiting
+it. Anything else defied common sense.]
+
+[cols="a,a,a", grid="none", frame="none"]
+|===
+| image::electron_core.png[electron core,200, align="center"]
+| image::proton_core.png[proton core,200, align="center"]
+| image::neutron_core.png[neutron core,200, align="center"]
+|===
+
 == About the textbooks
 
 The books in general are subject to change and may sometimes contain
@@ -166,24 +187,3 @@ dumbass “vibe coder,” etc. You have not evaluated the technology for
 yourself, even if you imagine you have. You have merely joined a
 social group, a quasi-religion, and now you are no doubt afraid of
 becoming an apostate.
-
-== The structure of matter
-
-Subatomic particles are not “quantum” entities floating in a vacuum.
-They are extremely dynamic structures within the universal
-electromagnetic field. However, the following diagrams may give an
-impression of the general shapes of the structures. The inseparable
-toroidal regions of electromagnetic activity correspond to “quarks,”
-but unlike “quarks” are serious inferences about electromagnetism.
-
-The neutron core has a very highly compressed electron orbiting it
-extremely closely.footnote:[It always _had to be_ that a neutron was a
-suitably modified proton with a suitably modified electron orbiting
-it. Anything else defied common sense.]
-
-[cols="a,a,a", grid="none", frame="none"]
-|===
-| image::electron_core.png[electron core,200, align="center"]
-| image::proton_core.png[proton core,200, align="center"]
-| image::neutron_core.png[neutron core,200, align="center"]
-|===
