@@ -96,14 +96,13 @@ it. Anything else defied common sense.]
 
 [cols="a,a,a", grid="none", frame="none"]
 |===
-| image::electron_core.png[electron core,200, align="center"] +
-[.text-center]electron core
+| image::electron_core.png[electron core,200, align="center"]
+| image::proton_core.png[proton core,200, align="center"]
+| image::neutron_core.png[neutron core,200, align="center"]
 
-| image::proton_core.png[proton core,200, align="center"] +
-[.text-center]proton core
-
-| image::neutron_core.png[neutron core,200, align="center"] +
-[.text-center]neutron core
+| electron core
+| proton core
+| neutron core
 |===
 
 == About the textbooks
