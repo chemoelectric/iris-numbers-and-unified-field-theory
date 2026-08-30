@@ -107,6 +107,14 @@ else defied common sense.]
 ^| neutron core
 |===
 
+Our “shape” is mostly electrons and thus might be visualized as an
+outline of these toroidal regions of electromagnetic activity.
+However, my father was a chemist, and thus a scientist of the bonds
+formed between electrons of different atoms. This is not what we dealt
+with in electrical engineering school, except maybe a bit in
+semiconductors courses. Even given that much, it is all more
+complicated than my tiny computer programmer mind can comprehend.
+
 == About the textbooks
 
 The books in general are subject to change and may sometimes contain
