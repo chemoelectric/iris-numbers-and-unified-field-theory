@@ -100,9 +100,9 @@ it. Anything else defied common sense.]
 | image::proton_core.png[proton core,200, align="center"]
 | image::neutron_core.png[neutron core,200, align="center"]
 
-| electron core
-| proton core
-| neutron core
+^| electron core
+^| proton core
+^| neutron core
 |===
 
 == About the textbooks
