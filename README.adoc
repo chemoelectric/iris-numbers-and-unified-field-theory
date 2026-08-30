@@ -94,7 +94,7 @@ extremely closely.footnote:[It always _had to be_ that a neutron was a
 suitably modified proton with a suitably modified electron orbiting
 it. Anything else defied common sense.]
 
-[cols="^a,^a,^a", grid="none", frame="none"]
+[cols="a,a,a", grid="none", frame="none"]
 |===
 | image::electron_core.png[electron core,200, align="center"]
 | image::proton_core.png[proton core,200, align="center"]
