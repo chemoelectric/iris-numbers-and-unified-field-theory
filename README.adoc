@@ -98,9 +98,9 @@ it. Anything else defied common sense.]
 
 [cols="a,a,a", grid="none", frame="none"]
 |===
-^| image::electron_core.png[electron core,225, align="center"]
-^| image::proton_core.png[proton core,225, align="center"]
-^| image::neutron_core.png[neutron core,225, align="center"]
+^| image::electron_core.png[electron core,100%, align="center"]
+^| image::proton_core.png[proton core,100%, align="center"]
+^| image::neutron_core.png[neutron core,100%, align="center"]
 
 ^| electron core
 ^| proton core
