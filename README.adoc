@@ -112,8 +112,8 @@ outline of these toroidal regions of electromagnetic activity.
 However, my father was a chemist, and thus a scientist of the bonds
 formed between electrons of different atoms. This is not what we dealt
 with in electrical engineering school, except maybe a bit in
-semiconductors courses. Even given that much, it is all more
-complicated than my tiny computer programmer mind can comprehend.
+semiconductors courses. Even given that much physical chemistry, my
+tiny computer programmer mind finds it all too much to comprehend.
 
 == About the textbooks
 
