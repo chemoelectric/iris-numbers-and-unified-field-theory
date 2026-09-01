@@ -31,7 +31,8 @@ get-iris-numbers: \
 
 .PHONY: get-iris-numbers-acl2
 get-iris-numbers-acl2:
-	$(call download-iris-numbers,$(IRIS_NUMBERS_ACL2))
+	(cd acl2-books && \
+        $(call download-iris-numbers,$(IRIS_NUMBERS_ACL2)))
 
 .PHONY: get-iris-numbers-01
 get-iris-numbers-01:
