@@ -82,6 +82,12 @@ author is one of the earliest contributors to Google Fonts.]
 
 == The structure of matter
 
+The following are merely diagrams of vacuum-free plenums of
+electromagnetic dynamism. None of these structures resembles
+point-like electrons orbiting a candy-cluster-like nucleus. Picture
+instead swirling and spinning vortices and currents of electromagnetic
+flux.
+
 [cols="a,a,a", grid="none", frame="none"]
 |===
 | image::gnuplot/volume_04/nuclei/01_hydrogen_nucleus.png[hydrogen nucleus,100%,align="center"]
