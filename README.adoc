@@ -93,15 +93,6 @@ author is one of the earliest contributors to Google Fonts.]
 ^| diatomic hydrogen
 |===
 
-Our “shape” is mostly electrons and thus might be visualized as an
-outline of these toroidal regions of electromagnetic activity.
-However, my father was a chemist, and thus a scientist of the bonds
-formed between electrons of different atoms. So it must be more
-complicated than just an outline of toroids. This is not what we dealt
-with in electrical engineering school, except maybe a bit in
-semiconductors courses. Even given that much physical chemistry, my
-tiny computer programmer mind finds it all too much to comprehend.
-
 == About the textbooks
 
 The books in general are subject to change and may sometimes contain
