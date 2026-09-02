@@ -82,29 +82,15 @@ author is one of the earliest contributors to Google Fonts.]
 
 == The structure of matter
 
-Subatomic particles are not “quantum” entities floating in a vacuum.
-They are extremely dynamic, tiny regions within the universal
-electromagnetic field. However, the following diagrams may give an
-impression of the general shapes of the structures. The inseparable
-toroidal forms of electromagnetic activity correspond to the supposed
-“quarks,” but—unlike fancifully invented “quarks”—are unfanciful
-inferences within the preëxisting Maxwellian theory of
-electromagnetism.
-
-The neutron core is sheathed by a highly compressed
-electron.footnote:[It always _had to be_ that a neutron was a suitably
-modified proton with a suitably modified electron around it. Anything
-else defied common sense.]
-
 [cols="a,a,a", grid="none", frame="none"]
 |===
-^| image::electron_core.png[electron core,100%, align="center"]
-^| image::proton_core.png[proton core,100%, align="center"]
-^| image::neutron_core.png[neutron core,100%, align="center"]
+^| image::gnuplot/volume_04/nuclei/01_hydrogen_nucleus.png[hydrogen nucleus,100%,align="center"]
+^| image::gnuplot/volume_08/hydrogen_atom.png[monatomic hydrogen,100%,align="center"]
+^| image::gnuplot/volume_08/h2_molecule.png[diatomic hydrogen,100%,align="center"]
 
-^| electron core
-^| proton core
-^| neutron core
+^| ionic hydrogen (proton)
+^| monatomic hydrogen
+^| diatomic hydrogen
 |===
 
 Our “shape” is mostly electrons and thus might be visualized as an
