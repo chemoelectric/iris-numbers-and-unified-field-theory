@@ -18,7 +18,14 @@ IRIS_NUMBERS_03 = https://archive.org/download/iris-number-system-03-volume-iii-
 IRIS_NUMBERS_04 = https://archive.org/download/iris-number-system-04-volume-iv-physics-etc/Iris_Number_System-04-Volume_IV_Physics_etc.pdf
 IRIS_NUMBERS_05 = https://archive.org/download/iris-number-system-05-volume-v-spectral-analysis-etc/Iris_Number_System-05-Volume_V_Spectral_Analysis_etc.pdf
 
-download-iris-numbers = $(WGET) -N $(1)
+TECH_PAPERS =
+TECH_PAPERS += $(notdir $(TECH_PAPERS_01))
+
+TECH_PAPERS_01 = https://archive.org/download/m_res_numerical_analysis_and_statistical_mechanics/m_res_numerical_analysis_and_statistical_mechanics.pdf
+
+download-things = $(WGET) -N $(1)
+download-iris-numbers = $(call download-things,$(1))
+download-tech-papers = $(call download-things,$(1))
 
 .PHONY: get-iris-numbers
 get-iris-numbers: \
@@ -28,6 +35,10 @@ get-iris-numbers: \
 	get-iris-numbers-03 \
 	get-iris-numbers-04 \
 	get-iris-numbers-05
+
+.PHONY: get-tech-papers
+get-tech-papers: \
+    get-tech-papers-01
 
 .PHONY: get-iris-numbers-acl2
 get-iris-numbers-acl2:
@@ -53,6 +64,10 @@ get-iris-numbers-04:
 .PHONY: get-iris-numbers-05
 get-iris-numbers-05:
 	$(call download-iris-numbers,$(IRIS_NUMBERS_05))
+
+.PHONY: get-tech-papers-01
+get-tech-papers-01:
+	$(call download-tech-papers,$(TECH_PAPERS_01))
 
 .PHONY: default
 	echo "Currently there is no default target."

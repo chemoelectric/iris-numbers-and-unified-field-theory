@@ -26,6 +26,10 @@ link:https://spdx.org/licenses/MIT.html[expat/MIT-style license].
 * link:https://raw.githubusercontent.com/chemoelectric/iris-numbers-and-unified-field-theory/refs/heads/master/Iris_Number_System-04-Volume_IV_Physics_etc.pdf[_The Iris Number System, Volume IV: Applications to Physics, Chemistry, Astronomy, Engineering, Communications, Time-Binding_]
 * link:https://raw.githubusercontent.com/chemoelectric/iris-numbers-and-unified-field-theory/refs/heads/master/Iris_Number_System-05-Volume_V_Spectral_Analysis_etc.pdf[_The Iris Number System, Volume V: Applications to Spectral Theory, Circuit Theory, Transmission Theory, Electronics, Computing_]
 
+== Technical papers
+
+* link:https://raw.githubusercontent.com/chemoelectric/m_res_numerical_analysis_and_statistical_mechanics.pdf[“m-res Numerical Analysis and Statistical Mechanics”]
+
 == A synopsis of the Iris number system
 
 The Iris number system replaces continuous real numbers with
