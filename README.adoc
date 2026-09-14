@@ -28,7 +28,7 @@ link:https://spdx.org/licenses/MIT.html[expat/MIT-style license].
 
 == Technical papers
 
-* link:https://raw.githubusercontent.com/chemoelectric/m_res_numerical_analysis_and_statistical_mechanics.pdf[“m-res Numerical Analysis and Statistical Mechanics”]
+* link:https://raw.githubusercontent.com/chemoelectric/iris-numbers-and-unified-field-theory/refs/heads/master/m_res_numerical_analysis_and_statistical_mechanics.pdf[“m-res Numerical Analysis and Statistical Mechanics”]
 
 == A synopsis of the Iris number system
 
