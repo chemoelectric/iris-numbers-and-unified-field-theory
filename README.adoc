@@ -4,14 +4,14 @@ This work is licensed under a
 link:https://creativecommons.org/licenses/by-nd/4.0/[Creative Commons
 Attribution-NoDerivatives 4.0 International License].
 
-IMPORTANT: This is not yet in the writings, but _gravitation is now
-    known to be classical wave refraction_. The universe is an
+IMPORTANT: This is not yet in the writings, but I now know
+    _gravitation is classical wave refraction_. The universe is an
     electromagnetic field, and matter is made of swirls of
     electromagnetic waves. Thus matter is as susceptible to refraction
-    as is radiation. _All gravitation is lensing._ This is why
-    gravity is such a feeble force and is unidirectional. It is
-    actually a gradient in the speed of causal propagation. All
-    radiation and matter are steered towards clumps of mass-energy.
+    as is radiation. _All gravitation is lensing._ This is why gravity
+    is such a feeble force and is unidirectional. It is actually a
+    gradient in the speed of causal propagation. All radiation and
+    matter are steered towards clumps of mass-energy.
 
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
