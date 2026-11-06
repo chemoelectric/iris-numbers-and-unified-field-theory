@@ -28,10 +28,10 @@ NOTE: There is a complete redraft in the works, though I am
     originally intended, the _Conformal Geometric Algebra_ (_CGA_) of
     Dorst, Fontijne, and Mann, but with a null-magnitude time
     dimension added. CGA is a geometric algebra designed for computer
-    graphics and thus it is _realistic_. Also I am reducing jargon
-    (such as “aperture”), reversals of the correct order of
-    abstracting (such as claims mathematics “governs” physical
-    behavior), etc.
+    graphics and thus it is _realistic_. There is much new material.
+    Also I am reducing jargon (such as “aperture”), reversals of the
+    correct order of abstracting (such as claims mathematics “governs”
+    physical behavior), etc.
 
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
