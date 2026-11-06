@@ -20,8 +20,8 @@ IMPORTANT: This is not yet in the writings, but I now know
     space-time.”
 
 NOTE: There is a complete redraft in the works, though I am
-    overwhelmed and it may take quite a while to be start coming out.
-    The main change is _Cl(4,1,1)_ is gone. _Cl(4,1,1)_ is a geometric
+    overwhelmed and it may take quite a while to start coming out. The
+    main change is _Cl(4,1,1)_ is gone. _Cl(4,1,1)_ is a geometric
     algebra suited to Relativity research but not to _realistic_
     research. Relativity is not only wrong but fallacious,
     unrealistic. Instead the entire opus is redone in what I had
