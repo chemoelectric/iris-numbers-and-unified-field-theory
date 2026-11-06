@@ -19,6 +19,18 @@ IMPORTANT: This is not yet in the writings, but I now know
     by word magic, causes a sudden change in “the fabric of
     space-time.”
 
+NOTE: There is a complete redraft in the works. The main change is
+    _Cl(4,1,1)_ is gone. _Cl(4,1,1)_ is a geometric algebra suited to
+    Relativity research but not to _realistic_ research. Relativity is
+    not only wrong but fallacious, unrealistic. Instead the entire
+    opus is redone in what I had originally intended, the _Conformal
+    Geometric Algebra_ (_CGA_) of Dorst, Fontijne, and Mann, but with
+    a null-magnitude time dimension added. CGA is a geometric algebra
+    designed for computer graphics and thus it is _realistic_. Also I
+    am reducing jargon (such as “aperture”), reversals of the correct
+    order of abstracting (such as claims mathematics “governs”
+    physical behavior), etc.
+
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
 
