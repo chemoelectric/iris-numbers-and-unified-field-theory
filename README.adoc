@@ -4,35 +4,14 @@ This work is licensed under a
 link:https://creativecommons.org/licenses/by-nd/4.0/[Creative Commons
 Attribution-NoDerivatives 4.0 International License].
 
-IMPORTANT: This is not yet in the writings, but I now know
-    _gravitation is classical wave refraction_. The universe is an
-    electromagnetic field, and matter is made of swirls of
-    electromagnetic waves. Thus matter is as susceptible to refraction
-    as is radiation. _All gravitation is lensing._ This is why gravity
-    is such a feeble force and is unidirectional. It is a gradient in
-    the speed of causal propagation (wave motion). All radiation and
-    matter are steered towards clumps of mass-energy. Furthermore, the
-    “stiffening” of the field responsible for the refraction is also
-    the sole plausible mechanism of “time dilation” effects. These
-    effects are actual slowings down, having nothing to do with a
-    physicist somewhere performing a coordinate transformation that,
-    by word magic, causes a sudden change in “the fabric of
-    space-time.”
-
-NOTE: There is a complete redraft in the works, though I am
-    overwhelmed and it may take quite a while to start coming out. The
-    main change is _Cl(4,1,1)_ is gone. _Cl(4,1,1)_ is a geometric
-    algebra suited to Relativity research but not to _realistic_
-    research. Relativity is not only wrong but fallacious,
-    unrealistic. Instead the entire opus is redone in what I had
-    originally intended, the _Conformal Geometric Algebra_ (_CGA_) of
-    Dorst, Fontijne, and Mann, but with a null-magnitude time
-    dimension added. CGA is a geometric algebra designed for computer
-    graphics and thus it is _realistic_. There is much new material
-    and there are more papers on the side. Also I am reducing jargon
-    (such as “aperture”), reversals of the correct order of
-    abstracting (such as claims mathematics “governs” physical
-    behavior), etc.
+NOTE: Volume I has been completely revised. It now uses Conformal
+      Geometric Algebra (CGA) instead of _Cl_(4,1,1). It shows that
+      all of physics can be derived from Newton’s laws of motion. It
+      shows that gravitation is caused by refraction of the
+      electromagnetic swirls that constitute matter. Incidentally,
+      because electromagnetic influences move more slowly nearer to
+      large masses, there _is_ a “time dilation” effect due to
+      gravity, _but “frame of reference” has nothing to do with it_.
 
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
