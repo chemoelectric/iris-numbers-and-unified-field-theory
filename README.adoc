@@ -11,10 +11,10 @@ NOTE: Volume I has been completely revised. It now uses Conformal
       universe so large you can see the finest details. It shows all
       of physics can be derived from Newton’s laws of motion. It shows
       gravitation is caused by refraction of the electromagnetic
-      swirls that constitute matter. Incidentally, because
+      swirls that constitute matter.footnote:[Incidentally, because
       electromagnetic influences move more slowly nearer to large
       masses, there _is_ a “time dilation” effect due to gravity, _but
-      “frame of reference” has nothing to do with it_.
+      “frame of reference” has nothing to do with it_.]
 
 A textbook series on a constructive number system that contains as
 part of its structure a unified field theory for physics.
