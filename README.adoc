@@ -5,7 +5,10 @@ link:https://creativecommons.org/licenses/by-nd/4.0/[Creative Commons
 Attribution-NoDerivatives 4.0 International License].
 
 NOTE: Volume I has been completely revised. It now uses Conformal
-      Geometric Algebra (CGA) instead of _Cl_(4,1,1). It shows that
+      Geometric Algebra (CGA) instead of _Cl_(4,1,1). It constructs
+      the integers with a straightedge and compass, while also
+      formally defining π. It shows you can do calculus by imagining a
+      universe so large you can see the finest details. It shows that
       all of physics can be derived from Newton’s laws of motion. It
       shows that gravitation is caused by refraction of the
       electromagnetic swirls that constitute matter. Incidentally,
