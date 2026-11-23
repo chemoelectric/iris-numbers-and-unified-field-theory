@@ -20,8 +20,10 @@ IRIS_NUMBERS_05 = https://archive.org/download/iris-number-system-05-volume-v-sp
 
 TECH_PAPERS =
 TECH_PAPERS += $(notdir $(TECH_PAPERS_01))
+TECH_PAPERS += $(notdir $(TECH_PAPERS_02))
 
 TECH_PAPERS_01 = https://archive.org/download/m_res_numerical_analysis_and_statistical_mechanics/m_res_numerical_analysis_and_statistical_mechanics.pdf
+TECH_PAPERS_02 = https://archive.org/download/riemann_hypothesis_concise_proof/riemann_hypothesis_concise_proof.pdf
 
 download-things = $(WGET) -N $(1)
 download-iris-numbers = $(call download-things,$(1))
@@ -38,7 +40,8 @@ get-iris-numbers: \
 
 .PHONY: get-tech-papers
 get-tech-papers: \
-    get-tech-papers-01
+    get-tech-papers-01 \
+    get-tech-papers-02
 
 .PHONY: get-iris-numbers-acl2
 get-iris-numbers-acl2:
@@ -68,6 +71,10 @@ get-iris-numbers-05:
 .PHONY: get-tech-papers-01
 get-tech-papers-01:
 	$(call download-tech-papers,$(TECH_PAPERS_01))
+
+.PHONY: get-tech-papers-02
+get-tech-papers-02:
+	$(call download-tech-papers,$(TECH_PAPERS_02))
 
 .PHONY: default
 	echo "Currently there is no default target."
