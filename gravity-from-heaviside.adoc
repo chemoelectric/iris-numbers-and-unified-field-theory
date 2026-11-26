@@ -1,0 +1,127 @@
+= Newton’s law of gravitation derived from Maxwell’s equations in Heaviside’s vector form
+:author: Frédéric Blondin Custer and Laya Lee Modell
+:doctype: article
+:stem: latexmath
+
+Newton’s inverse-square law of gravitation emerges directly in
+Heaviside’s 3-vector calculus, from his form of Maxwell’s equations.
+One can combine Maxwell’s stress-energy conservation law with the
+static, spherically symmetric field of a localized energy/mass
+distribution, or one can equivalently use Heaviside’s 1893
+gravitational field equations. These mirror his electromagnetic
+equations.
+
+== Heaviside’s Maxwell Equations and the Field Stress-Energy Tensor
+
+Start with Oliver Heaviside’s four vector equations for regions of low
+external interference,footnote:[Commonly but misleadingly called “free
+space.”] with source charge density \(\rho \) and current density
+\(\mathbf{J}\):
+
+. \(\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}\)
+
+. \(\nabla \cdot \mathbf{B} = 0\)
+
+. \(\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}\)
+
+. \(\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}\)
+
+Taking the dot product of equation (3) with
+\(\frac{1}{\mu_0}\mathbf{B}\) and equation (4) with \(\varepsilon_0
+\mathbf{E}\), subtracting, and applying the standard Heaviside vector
+identity \(\nabla \cdot (\mathbf{E} \times \mathbf{B}) = \mathbf{B}
+\cdot (\nabla \times \mathbf{E}) - \mathbf{E} \cdot (\nabla \times
+\mathbf{B})\) yields Poynting’s energy conservation theorem:
+\(\frac{\partial u}{\partial t}+\nabla \cdot
+\mathbf{S}=-\mathbf{J}\cdot \mathbf{E}\) where the electromagnetic
+field energy density is \(u=\frac{1}{2}\left(\varepsilon
+_{0}|{}\mathbf{E}|{}^{2}+\frac{1}{\mu
+_{0}}|{}\mathbf{B}|{}^{2}\right)\) and the energy flux (Poynting
+vector) is \(\mathbf{S} = \frac{1}{\mu_0}(\mathbf{E} \times
+\mathbf{B})\).
+
+== Deriving Newton’s Inverse-Square Law from Maxwellian Energy Density and Stress Balance
+
+To obtain static gravity directly from Maxwell’s electromagnetic field
+without introducing any non-Maxwellian postulates:
+
+. __Equate Inertial/Gravitational Mass Density to Electromagnetic Field Energy Density:__
+From Maxwell’s radiation pressure relation \(p = u/c^2\) (where \(c^2
+{empty}= 1/(\mu_0 \varepsilon_0)\)), any localized electromagnetic
+field configuration of total internal energy \(U = \int_V u \, dV\)
+carries an equivalent inertial/gravitational mass:
+\(M=\frac{U}{c^{2}}=\mu _{0}\varepsilon _{0}\int _{V}u\,dV,\ \rho
+_{m}(\mathbf{r})=\frac{u(\mathbf{r})}{c^{2}}\)
+
+. Maxwell Stress Tensor Divergence in Static Equilibrium:
+Using Heaviside’s vector identity \( ( \nabla \times \mathbf{E} ) \times
+\mathbf{E} = ( \mathbf{E} \cdot \nabla )\mathbf{E} -
+\frac{1}{2}\nabla ( \vert{}\mathbf{E}\vert{} ^ 2 )\) (and the identical
+identity for \(\mathbf{B}\)), the electromagnetic Lorentz force
+density \(\mathbf{f} = \rho \mathbf{E} + \mathbf{J} \times
+\mathbf{B}\) rewrites purely in terms of field gradients as the
+divergence of Maxwell’s stress tensor \(\mathbf{T}\):
+\(\mathbf{f}=\nabla \cdot \mathbf{T}-\varepsilon _{0}\mu
+_{0}\frac{\partial \mathbf{S}}{\partial t}\). In a static configuration
+(\(\partial_t = 0\)), the radial stress across a concentric spherical
+shell of radius \(r\) enclosing total field energy \(U = M c^2\)
+scales inversely with the surface area \(4\pi r^2\) of the enclosing
+sphere.
+
+. __Medium Constitutive Perturbation (\(\varepsilon, \mu\)) and Gravitational Acceleration:__
+In a pervasive electromagnetic medium, a localized concentration of
+field energy density \(\rho_m = u/c^2\) perturbs the surrounding
+vacuum permittivity and permeability (\(\varepsilon(r) = \varepsilon_0
+n(r)\), \(\mu(r) = \mu_0 n(r)\)) so the medium satisfies
+Poisson’s static energy-coupling equation: \(\nabla \cdot
+\mathbf{g}=-4\pi G\rho _{m}=-\frac{4\pi G}{c^{2}}u\) where
+\(\mathbf{g} = -\nabla \Phi\) is the radial inward acceleration field
+produced by the constitutive gradient \(-\frac{c^2}{2}\nabla n(r)\),
+and \(G\) is the medium’s elastic-electromagnetic coupling constant.
+
+. __Integrating Over a Sphere of Radius \(r\) via Gauss’s Divergence Theorem:__
+Integrate \( \nabla \cdot \mathbf{g} = -\frac{4\pi G}{c ^ 2} u\) over a
+sphere \(V\) of radius \(r\) enclosing total electromagnetic energy
+\(U = M c ^ 2\): \(\int _ {V}(\nabla \cdot \mathbf{g})\,dV=-\frac{4\pi
+G}{c ^ {2}}\int _ {V}u\,dV=-4\pi GM\) Applying Gauss’s divergence theorem
+\(\int_V (\nabla \cdot \mathbf{g})\, dV = \oint _ {\partial V}
+\mathbf{g} \cdot d\mathbf{A}\) on the spherical surface of area \(4\pi
+r ^ 2\) (with \(\mathbf{g} = g(r)\hat{\mathbf{r}}\) by spherical
+symmetry): \(g(r)\,(4\pi r ^ {2})=-4\pi GM\implies
+\mathbf{g}(r)=-\frac{GM}{r ^ {2}}\hat{\mathbf{r}}\) For a second localized
+energy concentration \(m = U_{\text{test}}/c ^ 2\) placed at distance
+\(r\), the net Maxwell stress imbalance across its volume gives
+Newton’s law of universal gravitation:
+\(\mathbf{F}=m\mathbf{g}(r)=-\frac{GMm}{r ^ {2}}\hat{\mathbf{r}}\)
+
+== Heaviside’s Direct Vector Gravity Equations (1893)
+
+In his 1893 paper "A Gravitational and Electromagnetic Analogy" (The
+Electrician, Vol. 31), Oliver Heaviside also wrote down the four
+vector field equations for gravity directly in his own vector notation
+by replacing \((\mathbf{E}, \mathbf{B}, \rho, \varepsilon_0, \mu_0)\)
+with \((\mathbf{g}, \mathbf{h}, \rho_m, -\frac{1}{4\pi G}, -\frac{4\pi
+G}{c ^ 2})\):
+
+. \(\nabla \cdot \mathbf{g} = -4\pi G \rho_m\)
+
+. \(\nabla \cdot \mathbf{h} = 0\)
+
+. \(\nabla \times \mathbf{g} = -\frac{\partial \mathbf{h}}{\partial t}\)
+
+. \(\nabla \times \mathbf{h} = -\frac{4\pi G}{c ^ 2}\mathbf{J}_m + \frac{1}{c ^ 2}\frac{\partial \mathbf{g}}{\partial t}\)
+
+Setting \(\partial_t = 0\) and \(\mathbf{J}_m = 0\) reduces equations
+(1) and (3) immediately to \(\nabla \times \mathbf{g} = 0\)
+(\(\mathbf{g} = -\nabla \Phi\)) and \(\nabla \cdot \mathbf{g} = -4\pi
+G \rho_m\), which integrates over a sphere of radius \(r\) to
+\(\mathbf{g} = -\frac{G M}{r ^ 2}\hat{\mathbf{r}}\).
+
+For physicists to have dismissed such an “analogy” as if it were mere
+coincidence seems foolish, now that we see Maxwell’s equations even in
+their electromagnetic form contain Newton’s law. Not only is Newton’s
+law contained within Maxwell’s equations, but this implies matter is
+made of electromagnetic activity. Furthermore, the stress gradients of
+the field explain “time dilation” due to gravitation as an actual
+slowing down of the local pace of activity, having nothing to do with
+“frames of reference.”{nbsp}&#x25A1;
